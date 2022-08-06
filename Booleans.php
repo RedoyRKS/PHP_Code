@@ -27,10 +27,11 @@
 // echo true == "1";
 echo false == '';
 
-
-
-
 ?>
+
+
+
+
 
 <!DOCTYPE html>
 <html>
